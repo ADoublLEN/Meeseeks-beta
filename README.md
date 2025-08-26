@@ -9,8 +9,6 @@ Meeseeks is an instruction-following benchmark based on business data. It featur
 
 ## Quick Start
 
-First you need to download the dataset from huggingface, and paste it in `data` folder.
-
 To run the project, you need to implement 3 different models by yourself:
 - target model 
 - extract model (which we recommend you using `Qwen2.5-Coder-32B-Instruct`)
