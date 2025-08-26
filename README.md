@@ -1,5 +1,5 @@
 # Meeseeks
-This is a beta version of Meeseeks, most of the previous open-source material is based on beta data. Heading to https://github.com/ADoublLEN/Meeseeks for the official release.
+**This is a beta version of Meeseeks, most of the previous open-source material is based on beta data.** Heading to https://github.com/ADoublLEN/Meeseeks for the official release.
 
 ## 📌Introduction
 
